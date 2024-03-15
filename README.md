@@ -12,7 +12,7 @@ Neste sistema, a biblioteca oferece serviços de *empréstimo* de livros [1],  *
 
 A biblioteca estará disponível para coleta de *doações literárias* [7] de todo o público que desejar ou não realizá-la, como incentivo do núcleo de sustentabilidade da instituição para a rotatividade de obras, manutenção e enriquecimento do acervo da biblioteca.
 
-O bibliotecário é responsável por *realizar o cadastro* [8] de livros ou usuários no sistema da biblioteca e operar a *venda* [9] das obras disponíveis. Cada pessoa cadastrada recebe todo ano, na data do seu aniversário, o *benefício* [10] de um cupom com 10% de desconto, para ser usufruído no espaço da biblioteca ou em livros na livraria parceira.
+O bibliotecário é responsável por *realizar o cadastro* [8] de livros ou usuários no sistema da biblioteca e operar a *venda* [9] das obras disponíveis. Cada pessoa cadastrada recebe todo ano, na data do seu aniversário, o *benefício* [10] de um cupom com 10% de desconto, para ser usufruído no espaço da biblioteca ou em livros da livraria parceira.
 
 Os *livros* [11] são organizados em *categorias* [12], de forma que cada livro pertence a uma categoria e cada categoria pode conter muitos livros. Essa estruturação tem o objetivo de promover o conforto do leitor que desejar identificar os livros físicos em cada endereço de sessão no espaço da biblioteca, de acordo com a categoria área de conhecimento ou a categoria gênero abordado no livro, por exemplo. 
 
