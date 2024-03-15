@@ -18,17 +18,17 @@ Os *livros* [11] são organizados em *categorias* [12], de forma que cada livro 
 
 No projeto desenvolvido, ainda, cada livro pode pertencer a 1 ou mais *autores* [13], e ser disponibilizado nos *modelos: físico; e-book; audiobook e braile*, abrangendo assiduamente os formatos com adaptações para acessibilidade. 
 
-Em caso de compra ou empréstimo, os livros físicos podem oferecer o *serviço de entrega ou retirada* na biblioteca, se desejável [14]. Ademais, aqueles que não efetuarem a devolução na data de vencimento do empréstimo, será penalizado com uma taxa, ou *multa*, no valor fixo de R$20. 
+Em casos de compra ou empréstimo, os livros físicos podem oferecer o *serviço de entrega ou retirada* na biblioteca, se desejável [14]. Ademais, aqueles que não efetuarem a devolução na data de vencimento do empréstimo, será penalizado com uma taxa, ou *multa*, no valor fixo de R$20. 
 #
 
-> 1. um empréstimo contém 1 ou mais livros, mas 1 livro só pode estar associado a nenhum empréstimo ou a um.
-  > * 1.1. um empréstimo pode estar associado a nenhuma ou 1 multa, mas uma multa sempre está associada a 1 empréstimo.
+> 1. um empréstimo contém 1 ou mais livros, mas 1 livro pode estar associado a nenhum empréstimo ou a um.
+  > * 1.1. um empréstimo pode estar associado a nenhuma ou a 1 multa, mas uma multa sempre está associada a 1 empréstimo.
   > * 1.2. um empréstimo pode ser realizado por 1 pessoa, mas 1 pessoa pode estar associada a nenhum ou a muitos empréstimos.
-> 2. uma sala de estudo só pode ser reservada por 1 pessoa e 1 pessoa pode ocupar a reserva de apenas 1.
+> 2. uma sala de estudo só pode ser reservada por 1 pessoa e 1 pessoa só pode ocupar a reserva de apenas 1 sala.
 > 3. um bibliotecário pode operar 1 ou mais vendas, mas 1 venda só pode ser associada a 1 bibliotecário.
 > 4. uma instituição de biblioteca pode promover nenhuma ou muitas palestras e 1 palestra pode ser promovida por no mínimo 1 ou mais instituições colaboradoras.
   >  * 4.1. uma instituição de biblioteca contém no mínimo 1 bibliotecário ou muitos, e 1 bibliotecário pode estar contido em 1 ou mais instituições (no caso de ter 2 empregos distintos).
-> 5. uma pessoa pode não registrar nenhuma avaliação ou muitas, mas 1 avaliação sempre será registrada ou associada a 1 pessoa.
+> 5. uma pessoa pode não registrar nenhuma avaliação literária ou muitas, mas 1 avaliação sempre será referente ou registrada por 1 pessoa.
   >  * 5.1. cada (1) avaliação é referente a 1 livro, mas 1 livro pode ser referenciado por nenhuma ou muitas avaliações.
 > 6. restrição de sobreposição
   >  * 6.1. um bibliotecário efetua no mínimo 1 ou muitos cadastros, de livros ou usuários, mas 1 cadastro por vez é efetuado por apenas 1 bibliotecário.
@@ -38,7 +38,7 @@ Em caso de compra ou empréstimo, os livros físicos podem oferecer o *serviço 
 > 9. uma venda contém 1 ou muitos livros e 1 livro pode se associar a 1 ou muitas vendas.
 > 10. uma pessoa recebe 1 ou muitos benefícios, de acordo com o tempo de cadastro, mas 1 benefício só pode ser recebido por 1 pessoa.
 > 11. um livro é publicado por 1 editora, mas 1 editora pode publicar 1 ou mais livros.
-  > * 11.1. um livro tem restrições de disjunção para os modelos: físico, e-book, audiobook e braile.
+  > * 11.1. um livro tem restrições de sobreposição para os modelos: físico, e-book, audiobook e braile. Ou seja, um mesmo livro pode ter nas versões e-book, audiobook, braile e físico.
 > 12. uma categoria pertence a 1 ou muitos livros, mas cada livro só pertence a 1 categoria.
 > 13. um autor produz 1 ou mais livros e 1 livro pode ser produzido por 1 ou mais autores.
 > 14. um livro físico pode pertencer a muitos ou a nenhum serviço de entrega/retirada, enquanto um serviço pode estar relacionado a 1 ou muitos livros físicos.
