@@ -14,7 +14,7 @@ A biblioteca estará disponível para coleta de *doações literárias* [7] de t
 
 O bibliotecário é responsável por *realizar o cadastro* [8] de livros ou usuários no sistema da biblioteca e operar a *venda* [9] das obras disponíveis. Cada pessoa cadastrada recebe todo ano, na data do seu aniversário, o *benefício* [10] de um cupom com 10% de desconto, para ser usufruído no espaço da biblioteca ou em livros da livraria parceira.
 
-Os *livros* [11] são organizados em *categorias* [12], de forma que cada livro pertence a uma categoria e cada categoria pode conter muitos livros. Essa estruturação tem o objetivo de promover o conforto do leitor que desejar identificar os livros físicos em cada endereço de sessão no espaço da biblioteca, de acordo com a categoria área de conhecimento ou a categoria gênero abordado no livro, por exemplo. 
+Os *livros* [11] são organizados em *categorias* [12], de forma que cada livro pertence a uma categoria e cada categoria pode conter muitos livros. Essa estruturação tem o objetivo de promover o conforto do leitor que desejar identificar os livros físicos em cada endereço de sessão no espaço da biblioteca, de acordo com a categoria área de conhecimento ou a categoria gênero abordada no livro, por exemplo. 
 
 No projeto desenvolvido, ainda, cada livro pode pertencer a 1 ou mais *autores* [13], e ser disponibilizado nos *modelos: físico; e-book; audiobook e braile*, abrangendo assiduamente os formatos com adaptações para acessibilidade. 
 
