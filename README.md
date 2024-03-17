@@ -1,5 +1,7 @@
 # **Diagrama Entidade Relacionamento**
 
+#### Maria Eduarda Santana da Silva Barros
+
 #### Modelo conceitual para um sistema de gerenciamento de biblioteca
 
 ### > Diagrama desenvolvido:
