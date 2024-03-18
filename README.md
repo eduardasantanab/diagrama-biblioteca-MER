@@ -9,7 +9,7 @@
 <img src="modelo-conceitual.png"/>
 
 #
-#### Apresentação:
+### > Apresentação do sistema:
 Neste sistema, a biblioteca oferece serviços de *empréstimo* de livros [1],  *aluguel de salas de estudos* [2], *venda* de obras literárias [3] e a realização de *eventos temáticos*, como palestras e debates [4]. Os eventos fazem parte do oferecimento da instituição em incentivar a construção do pensamento crítico para os seus consumidores, e são escolhidos a partir do *registro de avaliação* [5] que cada *pessoa* – *usuário* ou *bibliotecário* [6] – pode realizar sobre o livro, após a leitura. Assim, a obra melhor avaliada do mês será utilizada como tema para debates, dinâmicas ou palestras. 
 
 A biblioteca estará disponível para coleta de *doações literárias* [7] de todo o público que desejar ou não realizá-la, como incentivo do núcleo de sustentabilidade da instituição para a rotatividade de obras, manutenção e enriquecimento do acervo da biblioteca.
