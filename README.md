@@ -6,7 +6,7 @@
 
 ### > Diagrama desenvolvido:
 
-<img src="diagrama-biblioteca.png"/>
+<img src="modelo-conceitual.png"/>
 
 #
 #### Apresentação:
