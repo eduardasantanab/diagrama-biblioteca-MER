@@ -6,7 +6,7 @@
 
 ### > Diagrama desenvolvido:
 
-<img src="modelo-conceitual.png"/>
+<img src="modelo-conceitual-final.png"/>
 
 #
 ### > Apresentação do sistema:
@@ -30,18 +30,18 @@ Em casos de compra ou empréstimo, os livros físicos podem oferecer o *serviço
 > 3. uma venda contém 1 ou muitos livros e 1 livro pode se associar a 1 ou muitas vendas.
   > * 3.1. um bibliotecário pode operar 1 ou mais vendas, mas 1 venda só pode ser associada a 1 bibliotecário. 
 > 4. uma instituição de biblioteca pode promover nenhuma ou muitas palestras e 1 palestra pode ser promovida por no mínimo 1 ou mais instituições colaboradoras.
-  >  * 4.1. uma instituição de biblioteca contém no mínimo 1 bibliotecário ou muitos, e 1 bibliotecário pode estar contido em 1 ou mais instituições (no caso de ter 2 empregos distintos).
+  >  * 4.1. uma instituição de biblioteca contém 1 bibliotecário ou muitos, e 1 bibliotecário é subordinado de 1 ou mais instituições (no caso de ter 2 empregos distintos).
 > 5. uma pessoa pode não registrar nenhuma avaliação literária ou muitas, mas 1 avaliação sempre será referente ou registrada por 1 pessoa.
   >  * 5.1. cada (1) avaliação é referente a 1 livro, mas 1 livro pode ser referenciado por nenhuma ou muitas avaliações.
-> 6. restrição de sobreposição
+> 6. restrição de sobreposição (uma pessoa pode ser usuário, bibliotecário ou simultaneamente os dois. Mas sempre será um dos dois - total completa)
   >  * 6.1. um bibliotecário efetua no mínimo 1 ou muitos cadastros, de livros ou usuários, mas 1 cadastro por vez é efetuado por apenas 1 bibliotecário.
-> 7. uma pessoa pode efetuar nenhuma ou muitas doações, mas 1 doação pode estar associada a 1 ou mais doadores (pessoas).
-> 8. um cadastro pode se associar com 1 ou muitos usuários, mas 1 usuário só pode ser identificado por 1 cadastro.
-  > * 8.1. um cadastro pode se associar com 1 ou muitos livros, mas 1 livro só pode ser identificado por 1 cadastro.
-> 9. uma pessoa recebe 1 ou muitos benefícios, de acordo com o tempo de cadastro, mas 1 benefício só pode ser recebido por 1 pessoa.
+> 7. uma pessoa pode efetuar nenhuma ou muitas doações, mas 1 doação pode ser efetuada por 1 ou mais doadores (pessoas).
+> 8. um cadastro registra 1 ou muitos usuários, mas 1 usuário só pode ser identificado por 1 cadastro.
+  > * 8.1. um cadastro registra 1 ou muitos livros, mas 1 livro só pode ser identificado por 1 cadastro.
+> 9. uma pessoa recebe 1 benefício, de acordo com o tempo de cadastro, e 1 benefício pode ser recebido por 1 ou mais pessoas.
 > 10. um livro é publicado por 1 editora, mas 1 editora pode publicar 1 ou mais livros.
   > * 10.1. um livro tem restrições de sobreposição para os modelos: físico, e-book, audiobook e braile. Ou seja, um mesmo livro pode ter nas versões e-book, audiobook, braile e físico.
 > 11. uma categoria pertence a 1 ou muitos livros, mas cada livro só pertence a 1 categoria.
 > 12. um autor produz 1 ou mais livros e 1 livro pode ser produzido por 1 ou mais autores.
-> 13. um livro físico pode pertencer a muitos ou a nenhum serviço de entrega/retirada, enquanto um serviço pode estar relacionado a 1 ou muitos livros físicos.
-  > * 13.1. um livro em braile pode pertencer a muitos ou a nenhum serviço de entrega/retirada, enquanto um serviço pode estar relacionado a 1 ou muitos livros em braile.
+> 13. um livro físico pode pertencer a nenhum ou a muitos serviços de entrega/retirada, enquanto um serviço pode estar relacionado a 1 ou muitos livros físicos.
+  > * 13.1. um livro em braile pode pertencer a nenhum ou a muitos serviços de entrega/retirada, enquanto um serviço pode estar relacionado a 1 ou muitos livros em braile.
