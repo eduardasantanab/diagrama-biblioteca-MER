@@ -23,7 +23,7 @@ No projeto desenvolvido, ainda, cada livro pode pertencer a 1 ou mais *autores* 
 Em casos de compra ou empréstimo, os livros físicos podem oferecer o *serviço de entrega ou retirada* na biblioteca, se desejável [13]. Ademais, aqueles que não efetuarem a devolução na data de vencimento do empréstimo, serão penalizados com uma taxa, ou *multa*, no valor fixo de R$20. 
 #
 
-> 1. um empréstimo contém 1 ou mais livros, mas 1 livro pode estar associado a nenhum empréstimo ou a um.
+> 1. um empréstimo contém 1 ou mais livros, mas 1 livro pode estar associado a nenhum empréstimo ou a muitos.
   > * 1.1. um empréstimo pode estar associado a nenhuma ou a 1 multa, mas uma multa sempre está associada a 1 empréstimo.
   > * 1.2. um empréstimo pode ser realizado por 1 pessoa, mas 1 pessoa pode estar associada a nenhum ou a muitos empréstimos.
 > 2. uma sala de estudo só pode ser reservada por 1 pessoa e 1 pessoa só pode ocupar a reserva de apenas 1 sala.
